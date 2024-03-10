@@ -1,0 +1,16 @@
+.buttons-app{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.button{
+    padding: 20px;
+    background-color: #515151;
+    color: #efefef;
+    border-radius: 20px;
+    border: 2px solid transparent;
+}
+.button:hover{
+    border: 2px solid #d3d3d0;
+}

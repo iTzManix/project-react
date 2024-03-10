@@ -1,0 +1,20 @@
+.range-primes-page{
+    color: #3eb489;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.input-range{
+    padding: 10px;
+    border-radius: 10px;
+}
+.box-range{
+    display: flex;
+    justify-content:center;
+}
+.numbers-span
+{
+    font-size: 25px;
+}
